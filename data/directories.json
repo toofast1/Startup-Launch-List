@@ -5236,5 +5236,14 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+  "name": "LaunchOn.it",
+  "url": "https://launchon.it",
+  "domain_rating": 5,
+  "link_type": "Dofollow",
+  "pricing": null,
+  "category": "🚀 Startup Directory",
+  "description": "Product launch platform for indie hacker, small SaaS and startups."
   }
 ]
